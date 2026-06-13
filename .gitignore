@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Specific Files to Exclude
+module-1/Walmsley-Assignment1_3.docx
